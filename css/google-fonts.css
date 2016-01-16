@@ -1,0 +1,138 @@
+/* Google Fonts
+---------------------------------------------------------------------------------------------------- */
+
+.google-fonts-wrap {
+	border: 1px solid #edeeee;
+	margin-bottom: 7.5%;
+	padding: 7.5%;
+}
+
+.google-fonts h4 {
+	margin-top: 0;
+}
+
+/* Top 5 Google Fonts
+--------------------------------------------- */
+
+.gf-lato {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+}
+
+.gf-merriweather {
+	font-family: 'Merriweather', serif;
+	font-size: 17px;
+	font-weight: 300;
+	line-height: 1.75;
+}
+
+.gf-montserrat {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
+.gf-neuton {
+	font-family: 'Neuton', serif;
+	font-size: 22px;
+	font-weight: 300;
+	line-height: 1.375;
+}
+
+.gf-oswald {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+.gf-quattrocento {
+	font-family: 'Quattrocento', serif;
+	font-size: 19px;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+.gf-playfair-display {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+}
+
+.gf-open-sans {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.75;
+}
+
+.gf-roboto-slab {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+}
+
+.gf-roboto {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.75;
+}
+
+/* Most Popular Serif Google Fonts
+--------------------------------------------- */
+
+.gf-serif-arvo {
+	font-family: 'Arvo', serif;
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.gf-serif-droid-serif {
+	font-family: 'Droid Serif', serif;
+	font-weight: 400;
+}
+
+.gf-serif-lora {
+	font-family: 'Lora', serif;
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.gf-serif-roboto-slab {
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.gf-serif-slabo {
+	font-family: 'Slabo 27px', serif;
+	font-weight: 400;
+}
+
+/* Most Popular Sans Serif Google Fonts
+--------------------------------------------- */
+
+.gf-sans-lato {
+	font-family: 'Lato', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.gf-sans-open-sans {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.gf-sans-raleway {
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.gf-sans-roboto {
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.gf-sans-source-sans-pro {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+}
